@@ -127,7 +127,7 @@
 					<div class="info-box usp usp-medium">
 						<i class="fab fa-js"></i>
 						<div class="icon-text-holder">
-							<p>JS</p>
+							<p>JavaScript</p>
 						</div>
 					</div>
 				</div>
