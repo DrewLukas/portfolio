@@ -140,17 +140,27 @@
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="row">
-			<div class="container">
-				<div class="col col-max-width">
-					<div class="info-box">
-						<p></p>
-						<p></p>
+				<div class="container">
+					<div class="col col-max-width">
+						<div class="info-box">
+							<p></p>
+							<p></p>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
+			
+			<div class="row">
+				<div class="container">
+					<div class="col col-max-width">
+						<div class="info-box">
+							<p>Test tekst om te testen voor push naar Git.</p>
+						</div>
+					</div>
+				</div>
+			</div>
 
 	</main>
 
