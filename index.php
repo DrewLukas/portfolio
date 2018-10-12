@@ -146,7 +146,6 @@
 					<div class="col col-max-width">
 						<div class="info-box">
 							<p></p>
-							<p></p>
 						</div>
 					</div>
 				</div>
