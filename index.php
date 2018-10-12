@@ -147,7 +147,6 @@
 						<div class="info-box">
 							<p></p>
 							<p></p>
-							<p></p>
 						</div>
 					</div>
 				</div>
